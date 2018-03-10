@@ -31,3 +31,12 @@
 
 en:
   hello: "Hello world"
+  logout: "Logout"
+  sign_up: "Sign-up"
+  sign_in: "Sign-in"
+  help: "Help"
+  title: "Sample Application"
+  home: "Home"
+  about: "About"
+  contact: "Contact"
+  news: "News"
